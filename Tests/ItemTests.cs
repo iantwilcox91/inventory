@@ -57,14 +57,6 @@ namespace Testing
 
       Assert.Equal(afterDeleteFristItem, allItems);
     }
-//   tests
-
-
-
-
-
-
-
 
 
 

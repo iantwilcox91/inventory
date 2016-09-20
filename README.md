@@ -13,7 +13,6 @@
 | functional save method | has user input | users input|
 | functional DeleteAll method |  | |
 | functional Find method |  | |
-| functional Update method |  | |
 | functional Delete method |  | |
 | functional input method with form |  | |
 
